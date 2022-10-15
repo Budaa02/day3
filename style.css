@@ -1,0 +1,28 @@
+*{
+    box-sizing:border-box;
+}
+body{
+    display:flex;
+}
+.zurag{
+    width:150px;
+}
+.left{
+    background-color:aqua;
+}
+h4{
+    margin-left:100px;
+}
+.safe{
+    margin-left:100px;
+}
+section article{
+    margin-left:100px;
+}
+h4{
+    font-size:30px;
+    margin-top:10px;
+}
+section article ul li{
+    margin-bottom:10px;
+}
